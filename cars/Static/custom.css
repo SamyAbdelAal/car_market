@@ -1,0 +1,11 @@
+body{
+	background: url('/static/cars-for-sale.jpg') opacity:.7;
+}
+
+p{
+	font-size: 50px;
+}
+
+.img-deets{
+	width: 100%;
+}
